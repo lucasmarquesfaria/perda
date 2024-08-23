@@ -2,7 +2,7 @@
 
 #### Maximize suas vendas, minimize suas perdas.
 
-_Descrição_:
+### _Descrição_:
 O PerdaNet é um sistema de gestão focado na prevenção de perdas de vendas e no controle de itens sem cadastro, desenvolvido especificamente para o setor de autopeças. Com uma interface intuitiva e funcionalidades robustas, o PerdaNet permite que vendedores e gestores tenham um controle eficiente sobre o estoque, minimizando perdas e otimizando processos.
 
 _Tecnologias Utilizadas_:
